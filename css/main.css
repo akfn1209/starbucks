@@ -431,6 +431,7 @@ header .badge {
 .notice .notice-line .inner{
   height: 62px;
   display: flex;
+  overflow: hidden;
 }
 .notice .notice-line .inner__left{
   width: 60%;
